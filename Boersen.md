@@ -1,0 +1,1 @@
+* [Rating der Börsen](https://cer.live/#/)

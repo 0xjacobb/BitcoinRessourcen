@@ -1,0 +1,2 @@
+* [Lightning LND Github Seite](https://github.com/lightningnetwork/lnd)
+* [Eine sehr technische Einführung zu Lightning](https://blog.usejournal.com/the-bitcoin-lightning-network-a-technical-primer-d8e073f2a82f)

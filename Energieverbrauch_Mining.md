@@ -1,0 +1,2 @@
+* [Andreas Antonopoulos : Bitcoin's Energy Consumption and Media's Concern Trolling ](https://www.youtube.com/watch?v=PBZm2sucS_o)
+* [Verteilung der Miningpower pro Land](https://www.buybitcoinworldwide.com/mining/china/)
